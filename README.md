@@ -4,8 +4,8 @@ Introduction: this project aim is to explore the AirBnB rental trending in Ashev
 
 Environment used: Microsoft SQL Server Management Studio
 
-
-| room_type        | price_quartile | listing_count | percentage_of_listing |
+# Table 1: Room Distribution in Asheville
+| Room Type        | Price Quartile | Number of Listing | Listing Percentage |
 |-----------------|----------------|---------------|----------------------|
 | Entire home/apt  | Low            | 489           | 18                   |
 | Entire home/apt  | Lower_mid      | 600           | 22                   |
@@ -19,3 +19,19 @@ Environment used: Microsoft SQL Server Management Studio
 | Shared room      | Low            | 8             | 0                    |
 
 From this we can see that Asheville market is dominated by Entire home/Apartment rental type across different level of price, which takes more than 80% of listing. Entire home/Apartment room type is suitable for a group of mid to large size travellers, meaning that Asheville market is attracting a group of travellers instead of a couple or individuals. Therefore, I would recommend Entire home/Apartment hosts should add some more utilities, such as private parking space or outdoor space, which could attract more families with kids.
+
+# Table 2: Review Activity by Neighbourhood (Tìm hiểu xem ở neighbourhood này giá ntn + phòng gì là chủ yếu)
+| Neighbourhood | Activity |
+|---------------|-------|
+| 28806         | 88316 |
+| 28801         | 76405 |
+| 28804         | 47229 |
+| 28803         | 47021 |
+| 28805         | 30685 |
+| 28704         | 14428 |
+| 28715         | 8282  |
+| 28732         | 6183  |
+
+
+
+

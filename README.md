@@ -14,26 +14,50 @@ The findings aim to assist current and prospective Airbnb hosts in making data-d
 
 # Asheville Airbnb Overview
 
-
 The Asheville Airbnb market is clearly dominated by **Entire home/apartment** listings, which account for more than 80% of all listings across price ranges. This suggests that Asheville primarily attracts **groups of travelers** rather than couples or solo travelers.
 
 To capitalise on this trend, hosts offering Entire home/apartment rentals could consider **adding family-friendly amenities**, such as private parking, outdoor spaces, or play areas. These improvements are likely to appeal to families with children and could enhance occupancy and guest satisfaction.
 
-### Table 1: Room Distribution in Asheville
-| Room Type        | Price Quartile | Number of Listing | Percentage |
-|-----------------|----------------|---------------|----------------------|
-| Entire home/apt  | Low            | 489           | 18                   |
-| Entire home/apt  | Lower_mid      | 600           | 22                   |
-| Entire home/apt  | Upper_mid      | 628           | 24                   |
-| Entire home/apt  | High           | 638           | 24                   |
-| Hotel room       | Lower_mid      | 4             | 0                    |
-| Private room     | Low            | 154           | 5                    |
-| Private room     | Lower_mid      | 54            | 2                    |
-| Private room     | Upper_mid      | 25            | 0                    |
-| Private room     | High           | 13            | 0                    |
-| Shared room      | Low            | 8             | 0                    |
+- **Price variation:**
 
-### Table 2: Asheville Price Overview by Neighbourhood
+Entire homes tend to have higher maximum and average prices than private or shared rooms in every neighbourhood. For example, in neighbourhood 28806, entire homes average $159 per night, while private rooms average $57 and shared rooms $21.
+
+- **Neighbourhood differences:**
+
+28732 and 28805 show the highest average prices for entire homes ($211 and $174), suggesting these areas are more premium or in higher demand.
+Lower-priced neighbourhoods, like 28806 for shared/private rooms, may attract budget-conscious travelers or short-term stays.
+
+
+### Table 1: Airbnb Nightly Price Category in Asheville
+| Low Price  | Median | High Price  |
+|-----|--------|-----|
+| 86  | 123    | 185 |
+
+### Table 2: Distribution of Listings by Price Category
+| Price Category | Number of Listings | Percentage of Total Listings |
+|----------------|---------------|----------------------|
+| Low            | 651           | 24                   |
+| Lower_mid      | 658           | 25                   |
+| Upper_mid      | 653           | 24                   |
+| High           | 651           | 24                   |
+
+### Table 3: Room Distribution in Asheville
+| Room Type       | Price Category | Listing Count | Percentage of Total Listing |
+|-----------------|----------------|---------------|----------------------------|
+| Entire home/apt | Low            | 489           | 18                         |
+| Entire home/apt | Lower_mid      | 600           | 22                         |
+| Entire home/apt | Upper_mid      | 628           | 24                         |
+| Entire home/apt | High           | 638           | 24                         |
+| Hotel room      | Lower_mid      | 4             | 0                          |
+| Private room    | Low            | 154           | 5                          |
+| Private room    | Lower_mid      | 54            | 2                          |
+| Private room    | Upper_mid      | 25            | 0                          |
+| Private room    | High           | 13            | 0                          |
+| Shared room     | Low            | 8             | 0                          |
+
+
+
+### Table 4: Asheville Price Overview by Neighbourhood
 | Room Type       | Neighbourhood | Highest Price | Lowest Price | Average Price |
 |-----------------|---------------|-----------|-----------|-----------|
 | Private room    | 28704         | 999       | 43        | 145       |
@@ -155,6 +179,24 @@ Airbnb activity in Asheville has shown **steady growth since 2011**, starting fr
 | 2022 | 7     | 5292  |
 | 2023 | 11    | 4923  |
 | 2023 | 6     | 4890  |
+
+### Affect of minimum night on price
+Short minimum nights **can be associated** with higher prices:
+Example: 28732 has only 2 minimum nights but the highest average price (202 USD). This might indicate that hosts are offering premium properties for short stays.
+
+Longer minimum nights **do not always mean** higher prices:
+Example: 28801 has 6 minimum nights but a lower average price (170 USD) than 28732 or 28803.
+No strict linear correlation:
+While extremely low minimum nights might be paired with premium properties, in general, minimum nights alone do not dictate pricing. Factors like property type, amenities, location, and demand likely have a stronger influence.
+
+**Table: Average Minimum Night and Average Price**
+| Neighbourhood | Avg Minimum Nights | Avg Price |
+|---------------|------------------|-----------|
+| 28732         | 2                | 202       |
+| 28803         | 5                | 174       |
+| 28801         | 6                | 170       |
+| 28805         | 4                | 169       |
+| 28704         | 2                | 169       |
 
 
 ## Recommendation

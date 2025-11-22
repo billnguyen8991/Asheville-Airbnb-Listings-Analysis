@@ -13,6 +13,12 @@ The findings aim to assist current and prospective Airbnb hosts in making data-d
 **Environment used:** Microsoft SQL Server Management Studio
 
 # Asheville Airbnb Overview
+
+
+The Asheville Airbnb market is clearly dominated by **Entire home/apartment** listings, which account for more than 80% of all listings across price ranges. This suggests that Asheville primarily attracts **groups of travelers** rather than couples or solo travelers.
+
+To capitalise on this trend, hosts offering Entire home/apartment rentals could consider **adding family-friendly amenities**, such as private parking, outdoor spaces, or play areas. These improvements are likely to appeal to families with children and could enhance occupancy and guest satisfaction.
+
 ### Table 1: Room Distribution in Asheville
 | Room Type        | Price Quartile | Number of Listing | Percentage |
 |-----------------|----------------|---------------|----------------------|
@@ -26,10 +32,6 @@ The findings aim to assist current and prospective Airbnb hosts in making data-d
 | Private room     | Upper_mid      | 25            | 0                    |
 | Private room     | High           | 13            | 0                    |
 | Shared room      | Low            | 8             | 0                    |
-
-The Asheville Airbnb market is clearly dominated by **Entire home/apartment** listings, which account for more than 80% of all listings across price ranges. This suggests that Asheville primarily attracts **groups of travelers** rather than couples or solo travelers.
-
-To capitalise on this trend, hosts offering Entire home/apartment rentals could consider **adding family-friendly amenities**, such as private parking, outdoor spaces, or play areas. These improvements are likely to appeal to families with children and could enhance occupancy and guest satisfaction.
 
 ### Table 2: Asheville Price Overview by Neighbourhood
 | Room Type       | Neighbourhood | Highest Price | Lowest Price | Average Price |
@@ -50,7 +52,12 @@ To capitalise on this trend, hosts offering Entire home/apartment rentals could 
 | Shared room     | 28804         | 43        | 40        | 41        |
 | Private room    | 28804         | 251       | 36        | 88        |
 | Entire home/apt | 28805         | 2000      | 44        | 174       |
-| Private room    | 28805         | 151
+| Private room    | 28805         | 151       | 49        | 74        |
+| Shared room     | 28806         | 22        | 21        | 21        |
+| Private room    | 28806         | 144       | 21        | 57        |
+| Entire home/apt | 28806         | 2043      | 18        | 159       |
+| Hotel room      | 28806         | 111       | 111       | 111       |
+
 
 
 # Asheville Airbnb Activity

@@ -31,6 +31,28 @@ The Asheville Airbnb market is clearly dominated by **Entire home/apartment** li
 
 To capitalise on this trend, hosts offering Entire home/apartment rentals could consider **adding family-friendly amenities**, such as private parking, outdoor spaces, or play areas. These improvements are likely to appeal to families with children and could enhance occupancy and guest satisfaction.
 
+### Table 2: Asheville Price Overview by Neighbourhood
+| Room Type       | Neighbourhood | Highest Price | Lowest Price | Average Price |
+|-----------------|---------------|-----------|-----------|-----------|
+| Private room    | 28704         | 999       | 43        | 145       |
+| Entire home/apt | 28704         | 930       | 47        | 171       |
+| Entire home/apt | 28715         | 951       | 51        | 175       |
+| Private room    | 28715         | 175       | 41        | 63        |
+| Private room    | 28732         | 89        | 62        | 79        |
+| Entire home/apt | 28732         | 1219      | 61        | 211       |
+| Private room    | 28801         | 318       | 37        | 105       |
+| Shared room     | 28801         | 63        | 48        | 55        |
+| Entire home/apt | 28801         | 1700      | 48        | 180       |
+| Private room    | 28803         | 363       | 44        | 122       |
+| Hotel room      | 28803         | 107       | 105       | 106       |
+| Entire home/apt | 28803         | 1089      | 33        | 179       |
+| Entire home/apt | 28804         | 1471      | 41        | 166       |
+| Shared room     | 28804         | 43        | 40        | 41        |
+| Private room    | 28804         | 251       | 36        | 88        |
+| Entire home/apt | 28805         | 2000      | 44        | 174       |
+| Private room    | 28805         | 151
+
+
 # Asheville Airbnb Activity
 **Neighbourhood 28806** stands out as the most active, with **88,316 reviews**, indicating very high guest demand. It is followed by **28801 (76,405 reviews)** and **28804 (47,229 reviews)**, showing that these areas are key hotspots for Airbnb activity in Asheville.
 In contrast, neighbourhoods like **28732** and **28715** have significantly fewer reviews, indicating lower guest demand or fewer listings.
@@ -39,7 +61,7 @@ Regarding Pricing, **28806** not only has the most activity but also offers the 
 Neighbourhoods **28801** and **28804** have slightly higher nightly rates ($137 and $131 respectively), which could reflect **moderate demand combined with slightly higher-value listings.**
 The more expensive neighbourhoods (e.g., 28732 at $155) have fewer listings and lower review activity, indicating a smaller, higher-end market segment.
 
-### Table 2: Review Activity by Neighbourhood 
+### Table 3: Review Activity by Neighbourhood 
 | Neighbourhood | Guest Activity | Nightly Price |
 |---------------|-------------|----------------|
 | 28806         | 88316       | 113            |
@@ -59,7 +81,7 @@ For the most popular neighbourhoods:
 This suggests that guests in Asheville **prefer private, entire-home accommodations**, particularly in the busiest areas.
 
 
-### Table 3: Most Popular Room Type and Room Percentage by Neighbourhood
+### Table 4: Most Popular Room Type and Room Percentage by Neighbourhood
 | Neighbourhood | Room Type | Room Percentage |
 |----------------|------------------|-------|
 | 28806          | Entire home/apt  | 24    |
@@ -74,7 +96,7 @@ This suggests that guests in Asheville **prefer private, entire-home accommodati
 ### Trending Analysis
 Overall, the peak months for travel are **October (31,609 reviews), July (31,206)**, and **May (30,131)**, indicating that late spring through early fall is the busiest period for guests. Demand remains moderately high from **June through September** (27,849 to 29,356 reviews), reflecting consistent summer activity. In contrast, **winter months** January (18,556) and February (18,332) have the **lowest activity**, suggesting off-peak travel. **December (23,851 reviews)** shows a small rise, likely due to **holiday travel**, but still below peak season levels.
 
-### Table 4: Monthly Airbnb Review Activity in Asheville
+### Table 5: Monthly Airbnb Review Activity in Asheville
 | Month | Total Review  |
 |-------|--------|
 | 1     | 18556  |
@@ -94,7 +116,7 @@ Overall, **October consistently emerges as the peak month for Airbnb activity** 
 
 Airbnb activity in Asheville has shown **steady growth since 2011**, starting from just 6 reviews and reaching a peak of 54,540 reviews in 2023. There is a noticeable dip in 2020, with 28,377 reviews, likely due to COVID-19 travel restrictions, followed by a strong recovery in 2021 and 2022. Early 2025 data shows 16,756 reviews, which may represent partial-year activity.
 
-### Table 5: Yearly Airbnb Review Activity in Asheville
+### Table 6: Yearly Airbnb Review Activity in Asheville
 | Year | Review Activity  |
 |------|--------|
 | 2011 | 6      |

@@ -1,5 +1,7 @@
 # Asheville Airbnb Listings Analysis
-This report provides an analysis of Airbnb listings and guest activity in Asheville, North Carolina, with a focus on pricing trends, room distribution, neighbourhood performance, and seasonal demand. The analysis leverages data from Airbnb listings, reviews, and historical trends to identify key market insights and actionable recommendations for hosts and property managers.
+## Executive Summary
+
+This project examines the short term rental market in Asheville, North Carolina using publicly available data from Inside Airbnb. It provides an evidence based view of pricing patterns, host and room type distribution, neighbourhood performance, and seasonal demand. The analysis helps address key business problems such as identifying the most profitable listing types, understanding when demand is highest, spotting high performing neighbourhoods, and recognising market saturation risks. These insights support better pricing decisions, investment evaluation, and strategic planning for hosts, investors, and analysts.
 
 ## Objectives
 
@@ -12,7 +14,22 @@ The findings aim to assist current and prospective Airbnb hosts in making data-d
 
 **Environment used:** Microsoft SQL Server Management Studio
 
-# Asheville Airbnb Overview
+## Key Findings
+
+Entire home listings are the dominant offering, making up more than 80 percent of the market across all price ranges. This indicates a clear guest preference for full property rentals over private or shared rooms.
+
+Pricing patterns vary by listing type and neighbourhood. Entire homes achieve higher nightly rates, and areas such as 28732 and 28805 show some of the highest average prices, suggesting premium properties or strong demand.
+
+The market shows a balanced price distribution, with similar proportions of low, mid-range, and high-priced listings. This reflects a healthy mix of budget, standard, and premium accommodation options.
+
+Neighbourhood demand differs significantly. Suburbs such as 28806, 28801, and 28804 record the highest guest activity and review volume. In particular, 28806 performs strongly while remaining relatively affordable, signalling strong appeal for budget-conscious travellers.
+
+Long-term growth is clear, with annual review volumes increasing consistently since 2011. A small decline in 2020, likely due to COVID impacts, was followed by rapid recovery in 2021–2023, reaching a peak in 2023. This points to a resilient and expanding market.
+
+Seasonal trends show demand peaks in late spring through early autumn, especially in May, June, July, and October, with lower activity over winter. These cycles help hosts plan pricing, availability, and operational decisions.
+
+# Analysis
+## Asheville Airbnb Overview
 
 The Asheville Airbnb market is clearly dominated by **Entire home/apartment** listings, which account for more than 80% of all listings across price ranges. This suggests that Asheville primarily attracts **groups of travelers** rather than couples or solo travelers.
 
@@ -84,7 +101,7 @@ Lower-priced neighbourhoods, like 28806 for shared/private rooms, may attract bu
 
 
 
-# Asheville Airbnb Activity
+## Asheville Airbnb Activity
 **Neighbourhood 28806** stands out as the most active, with **88,316 reviews**, indicating very high guest demand. It is followed by **28801 (76,405 reviews)** and **28804 (47,229 reviews)**, showing that these areas are key hotspots for Airbnb activity in Asheville.
 In contrast, neighbourhoods like **28732** and **28715** have significantly fewer reviews, indicating lower guest demand or fewer listings.
 

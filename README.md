@@ -197,6 +197,8 @@ Airbnb activity in Asheville has shown **steady growth since 2011**, starting fr
 | 2023 | 11    | 4923  |
 | 2023 | 6     | 4890  |
 
+It is notable that Airbnb activity increased after 2021, despite this period overlapping with the COVID pandemic. Under strict social distancing policies, demand for accommodation would normally be expected to decline. However, this trend can be explained by a shift in traveller preferences during COVID. Demand increased for private, self contained accommodation that minimised contact with others, and Airbnb listings were well positioned to meet this need. In addition, many hosts introduced discounted pricing and long stay offers to attract guests during periods of uncertainty, encouraging extended stays rather than short visits. Furthermore, the widespread adoption of work from home arrangements increased demand for flexible accommodation, as some guests extended their stays or remained in temporary locations during travel disruptions. Together, these factors contributed to the resilience and growth of Airbnb demand during the pandemic period.
+
 ### Affect of minimum night on price
 Short minimum nights **can be associated** with higher prices:
 Example: 28732 has only 2 minimum nights but the highest average price (202 USD). This might indicate that hosts are offering premium properties for short stays.
